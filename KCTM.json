@@ -1,8 +1,7 @@
 {
     "keys": {
-        "CLX-91XT-7F3D-AB24": { "usos": 0 },
-        "CLX-82GX-4M6N-KJ98": { "usos": 1 },
-        "CLX-75ZR-2V5Y-WQ31": { "usos": 0 },
-        "CLX-63PY-9L8X-DB76": { "usos": 1 }
+        "CLINXTREME-123456": { "hwid": null },
+        "CLINXTREME-987654": { "hwid": null },
+        "CLINXTREME-ABCDE": { "hwid": "HWID-DE-EJEMPLO" }
     }
 }
